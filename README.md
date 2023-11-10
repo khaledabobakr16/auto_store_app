@@ -4,12 +4,14 @@ Auto store application using Firebase
 
 ## What Firebase features are implemented?
 
-### Firebase Authentication
+1-Firebase Authentication
   - Email based sign up/in.
   - Google Sign in & Facebook Sign in.
   - Rest Password.
-2.Cloud Firestore
-3.Firebase Storage
+    
+2-Cloud Firestore
+
+3-Firebase Storage
 
 ![WhatsApp Image 2023-11-08 at 5 52 31 AM](https://github.com/khaledabobakr16/auto_store_app/assets/133836975/215a7de0-2798-431c-8375-cefc9334c1b0)
 
@@ -34,6 +36,10 @@ Auto store application using Firebase
 </p>
 
 ## Video of this project
+
+
+
+https://github.com/khaledabobakr16/auto_store_app/assets/133836975/ead555df-6c4b-4ad3-8a2f-867167c1783a
 
 
 
